@@ -37,5 +37,31 @@ body {
   float: left;
 }
 
+.box {
+  position: relative;
+  float: right;
+}
+
+.box:last-child {
+   position: relative;
+  float: right;
+}
+
+.box h2 {
+   position: relative;
+  float: right;
+  
+}
+
+.box img {
+   position: relative;
+  float: right;
+}
+
+.box a.read-more {
+     position: relative;
+  float: right;
+}
+
 .footer {
 }
