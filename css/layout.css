@@ -4,7 +4,7 @@
 body {
 }
 
-.heading {
+.heading {position: fixed;
 }
 
 .heading h1 {
@@ -33,6 +33,8 @@ body {
 }
 
 .box a.read-more {
+     position: relative;
+  float: left;
 }
 
 .footer {
