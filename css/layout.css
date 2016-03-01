@@ -11,15 +11,24 @@ body {
 }
 
 .box {
+  position: relative;
+  float: left;
 }
 
 .box:last-child {
+   position: relative;
+  float: left;
 }
 
 .box h2 {
+   position: relative;
+  float: left;
+  
 }
 
 .box img {
+   position: relative;
+  float: left;
 }
 
 .box a.read-more {
