@@ -37,28 +37,28 @@ body {
   float: left;
 }
 
-.box {
+.box2 {
   position: relative;
   float: right;
 }
 
-.box:last-child {
+.box2:last-child {
    position: relative;
   float: right;
 }
 
-.box h2 {
+.box2 h2 {
    position: relative;
-  float: right;
+  float: middle;
   
 }
 
-.box img {
+.box2 img {
    position: relative;
   float: right;
 }
 
-.box a.read-more {
+.box2 a.read-more {
      position: relative;
   float: right;
 }
