@@ -2,9 +2,17 @@
 
 
 body {
+   padding-top: 80px;
 }
 
 .heading {
+   position: fixed;
+   top:0;
+   left:0;
+   width: 100%;
+   padding:0 20px;
+   border-botton:2px solid #222;
+   
 }
 
 .heading h1 {
@@ -21,47 +29,14 @@ body {
   float: left;
 }
 
-.box h2 {
-   position: relative;
-  float: middle;
-  
-}
-
-.box img {
-   position: relative;
-  float: left;
-}
-
-.box a.read-more {
-     position: relative;
-  float: left;
-}
-
-.box2 {
-  position: relative;
-  float: right;
-}
-
-.box2:last-child {
-   position: relative;
-  float: right;
-}
-
-.box2 h2 {
-   position: relative;
-  float: middle;
-  
-}
-
-.box2 img {
-   position: relative;
-  float: right;
-}
-
-.box2 a.read-more {
-     position: relative;
-  float: right;
-}
 
 .footer {
+    position: fixed;
+   top:0;
+   left:0;
+   width: 100%;
+   padding:0 20px;
+   border-botton:2px solid #eee;
+   
+   
 }
